@@ -1,0 +1,20 @@
+Guidelines for Part 2:
+
+--> The project specifications will be anonymized and randomly assigned to different teams
+--> An architecture document is created based on the specification. 
+--> The document will be organized according to the "4+1 Views" format.
+--> The functions to be implemented are prioritized
+--> The specifications are implemented and tested according to this priority
+
+Comparison of implementations
+
+--> the original specification team attempts the acceptance tests on the new implementation
+--> The specification team makes a brief presentation discussing how the resulting implementation matched (or did not match) with the original intentions of the specification
+--> The implementation team helps prepare the presentation by reflecting on the possible reasons for the similarities and differences
+
+Software engineering notes
+
+--> It is expected that each team will use sound project management principles in developing the project:
+-----> use a project tracking system to coordinate work among teammates (updated at least weekly)
+-----> use a version control system to coordinate code contributions (regularly updated)
+-----> follow a disciplined testing process while creating the implementation
